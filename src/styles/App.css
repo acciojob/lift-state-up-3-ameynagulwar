@@ -1,1 +1,20 @@
+.parent{
+    background-color: greenyellow;
+    color: black;
+}
 
+
+.child1{
+    width: 500px;
+    height: 200px;
+    background-color: brown;
+    color: black;
+}
+
+
+.child2{
+    width: 500px;
+    height: 200px;
+    background-color: yellow;
+    color: black;
+}
